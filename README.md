@@ -24,22 +24,23 @@
 
 - 🖥️  See my portfolio at <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
-- 🌟 Main languages: **JavaScript, C++, Python**
+- 🌟 **_Main languages_**: JavaScript, C++, Python
 
-- 👯 I’m looking to **To collaborate on open source projects.**
+- 👯 **_I’m looking_**: To collaborate on open source projects.
 
-- 🤔 Searching for **Junior Web Development(Frontend/Backend/Both) Post.**
+- 🤔 **_Searching for_**: Junior Web Development(Frontend/Backend/Both) Post.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 **_I’m currently_**: learning Data Structures and Algorithms
 
-- 👨‍💻 All of my projects are available at <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
+- 👨‍💻 **_My projects are available at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
 
-- 💬 Ask me about **React, Redux, Javascript, MongoDB, Mongoose**
+- 💬 **_Ask me about_**: React, Redux, Tailwind, Javascript, MongoDB, Mongoose
 
-- 📫 How to reach me **shuvokuetece@gmail.com**
+- 📫 **_How to reach me_**: shuvokuetece@gmail.com
+  <br>
 
 <!-- Technology section -->
-<h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Technologies I Work With</h2>
+<h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"/> Technologies I Work With</h2>
 <br>
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/HTML.png"/>
@@ -58,6 +59,7 @@
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/express.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/mongo.png"/>
 </p>
+<br>
 
 <!-- Status section -->
 <h2>⚡ Status</h2>
