@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snokeOver.snokeOver">
 
 <a href="https://www.linkedin.com/in/shubhankar-halder">
-<img src="https://raw.githubusercontent.com/snokeOver/snokeOver/edit/main/assets/images/profile.png" />
+<img src="https://raw.githubusercontent.com/snokeOver/snokeOver/blob/main/assets/images/profile.png" />
 </a>
 
 ## Hi there 👋
