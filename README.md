@@ -1,6 +1,6 @@
 <!-- Greetings part with Visitors Count -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snokeOver.snokeOver">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you. </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Nice to see you ! </h1>
 
 <!-- Profile Banner section -->
 
@@ -31,7 +31,7 @@
 
 <!-- Technology section -->
 <h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Technologies I Work With</h2>
-
+<br>
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/HTML.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/css.png"/>
@@ -50,17 +50,27 @@
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/mongo.png"/>
 </p>
 
+<!-- About Me section -->
+<h2><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> About Me</h2>
+<br>
+
+- 🖥️  See my portfolio at <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
+
+- 🌟 Main languages: **JavaScript, C++, Python**
+
+- 👯 I’m looking to collaborate on ...**JavaScript, C++, Python**
+- 🤔 Searching for **Junior Web Development(Frontend/Backend/Both) Post.**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 👨‍💻 All of my projects are available at <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
+
+- 💬 Ask me about **React, Redux, Javascript, MongoDB, Mongoose**
+
+- 📫 How to reach me **shuvokuetece@gmail.com**
+
 <!--
-**snokeOver/snokeOver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
