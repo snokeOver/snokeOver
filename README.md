@@ -1,9 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snokeOver.snokeOver">
 
-<a href="https://www.linkedin.com/in/shubhankar-halder">
-<img src="https://raw.githubusercontent.com/snokeOver/snokeOver/blob/main/assets/images/profile.png" />
-</a>
+[![ProfileBanner](assets/images/profile.png)](https://shubhankar-halder.vercel.app)
 
 ## Hi there 👋
 
