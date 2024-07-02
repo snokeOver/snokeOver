@@ -6,11 +6,23 @@
 
 [![ProfileBanner](assets/images/profile.png)](https://shubhankar-halder.vercel.app)
 
+<p align="center">
+   <a href="https://github.com/snokeOver" target="_blank">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+   </a>
+   <a href="https://x.com/SnokeOver" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+   </a> 
+   <a href="https://www.linkedin.com/in/shubhankar-halder" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a> 
+</p>
+
 <!-- Status section -->
 <h2>⚡ Status</h2>
 <br>
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=snokeOver&theme=react&border=61dafb&hide_border=true" alt="snokeOver" />
     </a>
@@ -19,7 +31,7 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snokeOver&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
@@ -51,14 +63,15 @@
 </p>
 
 <!-- About Me section -->
-<h2><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> About Me</h2>
+<h2><img  src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" /> About Me</h2>
 <br>
 
 - 🖥️  See my portfolio at <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
 - 🌟 Main languages: **JavaScript, C++, Python**
 
-- 👯 I’m looking to collaborate on ...**JavaScript, C++, Python**
+- 👯 I’m looking to **To collaborate on open source projects.**
+
 - 🤔 Searching for **Junior Web Development(Frontend/Backend/Both) Post.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
