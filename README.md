@@ -22,24 +22,26 @@
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> About Me</h2>
 <br>
 
-- 🖥️  See my portfolio at <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
+- 🖥️  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
 - 🌟 **_Main languages_**: JavaScript, C++, Python
 
+- 🌱 **_I’m currently_**: Learning Data Structures and Algorithms
+
 - 👯 **_I’m looking_**: To collaborate on open source projects.
-
-- 🤔 **_Searching for_**: Junior Web Development(Frontend/Backend/Both) Post.
-
-- 🌱 **_I’m currently_**: learning Data Structures and Algorithms
 
 - 👨‍💻 **_My projects are available at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
 
-- 💬 **_Ask me about_**: React, Redux, Tailwind, Javascript, MongoDB, Mongoose
+- 🤔 **_Searching for_**: Junior Web Development (Frontend/Backend/Both) Post.
 
 - 📫 **_How to reach me_**: shuvokuetece@gmail.com
-  <br>
+
+- 💬 **_Ask me about_**: React, Redux, Tailwind, JavaScript, MongoDB, Mongoose
 
 <!-- Technology section -->
+
+<br> <br> <br>
+
 <h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"/> Technologies I Work With</h2>
 <br>
 <p align="center">
