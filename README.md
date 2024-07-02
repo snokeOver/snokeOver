@@ -34,20 +34,20 @@
 
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/HTML.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/css.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/JavaScript.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/cpp.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/css.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/JavaScript.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/react.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/redux.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/tailwind.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/firebase.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/react.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/redux.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/tailwind.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/node.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/express.png"/>
-<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/icons/mongo.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/node.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/express.png"/>
+<img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/mongo.png"/>
 </p>
 
 <!--
