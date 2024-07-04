@@ -1,6 +1,6 @@
 <!-- Greetings part with Visitors Count -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snokeOver.snokeOver">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Nice to see you ! </h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello, Nice to see you ! </h1>
 
 <!-- Profile Banner section -->
 
@@ -19,7 +19,7 @@
 </p>
 
 <!-- About Me section -->
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> About Me</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h2>
 <br>
 
 - 🖥️  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
