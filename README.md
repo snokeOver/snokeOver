@@ -4,7 +4,7 @@
 
 <!-- Profile Banner section -->
 
-[![ProfileBanner](assets/images/profile.png)](https://shubhankar-halder.vercel.app)
+[![ProfileBanner](assets/images/profile.jpg)](https://shubhankar-halder.vercel.app)
 
 <p align="center">
    <a href="https://github.com/snokeOver" target="_blank">
@@ -24,19 +24,19 @@
 
 - 🖥️  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
-- 🌟 **_Main languages_**: JavaScript, C++, Python
+- 🌟 **_Main languages_**: JavaScript, C++
 
-- 🌱 **_I’m currently_**: Learning Data Structures and Algorithms
+- 🌱 **_I’m currently_**: Learning Data Redux and TypeScript
 
 - 👯 **_I’m looking_**: To collaborate on open source projects.
 
 - 👨‍💻 **_My projects are available at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
 
-- 🤔 **_Searching for_**: Junior Web Development (Frontend/Backend/Both) Post.
+- 🤔 **_Searching for_**: Junior Web Development (Backend/Frontend/Full Stack) Post.
 
 - 📫 **_How to reach me_**: shuvokuetece@gmail.com
 
-- 💬 **_Ask me about_**: React, Redux, Tailwind, JavaScript, MongoDB, Mongoose
+- 💬 **_Ask me about_**: React, Redux, TypeScript, Tailwind, JavaScript, MongoDB, Mongoose
 
 <!-- Technology section -->
 
@@ -49,6 +49,7 @@
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/css.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/JavaScript.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/cpp.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </p>
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/react.png"/>
