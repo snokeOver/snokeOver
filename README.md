@@ -49,7 +49,7 @@
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/css.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/JavaScript.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/cpp.png"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </p>
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/react.png"/>
