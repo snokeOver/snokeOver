@@ -24,19 +24,19 @@
 
 - 🖥️  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
-- 🌟 **_Main languages_**: JavaScript, C++
+- 🌟 **_Main languages_**: JavaScript, TypeScript, C++
 
-- 🌱 **_I’m currently_**: Learning Data Redux and TypeScript
+- 🌱 **_I’m currently_**: Learning Data Structure, PostGreSQL
 
 - 👯 **_I’m looking_**: To collaborate on open source projects.
 
 - 👨‍💻 **_My projects are available at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
 
-- 🤔 **_Searching for_**: Junior Web Development (Backend/Frontend/Full Stack) Post.
+- 🤔 **_Searching for_**: Web Development (Backend/Frontend/Full Stack) Post.
 
 - 📫 **_How to reach me_**: shuvokuetece@gmail.com
 
-- 💬 **_Ask me about_**: React, Redux, TypeScript, Tailwind, JavaScript, MongoDB, Mongoose
+- 💬 **_Ask me about_**: React, Next.js-14, Redux, Zustand, TypeScript, JavaScript, Tailwind, MongoDB, Mongoose
 
 <!-- Technology section -->
 
