@@ -22,21 +22,24 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h2>
 <br>
 
-- 🖥️  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
+- 🖥️  **_I am currently work at_**: <a target="_blank"  href='[https://shubhankar-halder.vercel.app](https://www.nagorik.tech)'>Nagorik Technology LTD</a>
+
+- 🔭  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
 - 🌟 **_Main languages_**: JavaScript, TypeScript, C++
 
-- 🌱 **_I’m currently_**: Learning Data Structure, PostGreSQL
+- 🌱 **_I’m currently_**: Learning Data Structure, DevOps
 
 - 👯 **_I’m looking_**: To collaborate on open source projects.
 
 - 👨‍💻 **_My projects are available at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder</a>
 
-- 🤔 **_Searching for_**: Web Development (Backend/Frontend/Full Stack) Post.
+- 🤔 **_Searching for_**: Web Development Full Stack/ Leading Post.
 
 - 📫 **_How to reach me_**: shuvokuetece@gmail.com
 
-- 💬 **_Ask me about_**: React, Next.js-14, Redux, Zustand, TypeScript, JavaScript, Tailwind, MongoDB, Mongoose
+- 💬 **_Ask me about_**: React, Next.js, React Native, Redux, Zustand, TypeScript, JavaScript, Tanstack Ecosystem, Tailwind, MongoDB, Mongoose, PostgreSQL, Prisma 
+
 
 <!-- Technology section -->
 
