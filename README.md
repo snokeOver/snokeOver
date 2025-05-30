@@ -50,14 +50,14 @@
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/JavaScript.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/cpp.png"/>
 <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+
 </p>
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/react.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/redux.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/tailwind.png"/>
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/firebase.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>
+<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 </p>
 <p align="center">
 <img src="https://github.com/snokeOver/snokeOver/blob/main/assets/icons/node.png"/>
