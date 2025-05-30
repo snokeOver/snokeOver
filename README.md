@@ -22,7 +22,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h2>
 <br>
 
-- 🖥️  **_I am currently work at_**: <a target="_blank"  href='[https://shubhankar-halder.vercel.app](https://www.nagorik.tech)'>Nagorik Technology LTD</a>
+- 🖥️  **_I am currently work at_**: <a target="_blank"  href='https://www.nagorik.tech'>Nagorik Technology LTD</a>
 
 - 🔭  **_See my portfolio at_**: <a target="_blank"  href='https://shubhankar-halder.vercel.app'>Shubhankar Halder's Portfolio</a>
 
